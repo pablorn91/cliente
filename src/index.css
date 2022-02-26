@@ -87,6 +87,10 @@ a {
   display: block;
   background-color: transparent;
 }
+.btn-blank:hover {
+  font-weight: 700;
+  color: var(--gris2);
+}
 
 @media (min-width: 768px) {
   .contenedor-app {
